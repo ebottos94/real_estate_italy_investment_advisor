@@ -36,10 +36,10 @@ And in the same way you can see the values of selected Province and go inside th
 
 ![Alt text](img/region_details.jpg)
 
-In the Province's values, if the City selected have also areas values you can go inside them : 
+In the Province's values, if the selected City have also areas values you can go inside them : 
 
 ![Alt text](img/province_details.jpg)
 
-And then you can see the deepest overview, the city's areas : 
+And then you can see the deepest overview, the City's areas : 
 
 ![Alt text](img/city_details.jpg)
