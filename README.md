@@ -8,7 +8,7 @@ The Backend, a FastAPI application, scrapes data of specific area from [Immobili
 
 The purpose is just to provide an overview and some advisors.
 
-All row data for the analysis are scraped from [Immobiliare.it](https://www.immobiliare.it/mercato-immobiliare/)
+All raw data for the analysis are scraped from [Immobiliare.it](https://www.immobiliare.it/mercato-immobiliare/)
 
 ## Run project
 
