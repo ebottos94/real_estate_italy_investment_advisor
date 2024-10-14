@@ -1,6 +1,6 @@
 # Real Estate Italy Investment Advisor
 
-The goal of this project is to have an overview of Italy Real Estate market by investment way.
+The goal of this project is to have an overview of Italy Real Estate market by investment point of view.
 
 The frontend, a React application, is a dashboard that represents the areas of Italy (Regions, Provinces, Cities, Areas of Cities) by the ratio Rent price/Sell price. In this way, where the ratio is higher is, in theory, more convenient to buy for investment. 
 
