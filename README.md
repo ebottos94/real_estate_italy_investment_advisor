@@ -2,7 +2,9 @@
 
 The goal of this project is to have an overview of Italy Real Estate market by investment way.
 
-The frontend is a dashboard that represents the areas of Italy (Regions, Provinces, Cities, Areas of Cities) by the ratio Rent price/Sell price. In this way, where the ratio is higher is, in theory, more convenient to buy for investment. 
+The frontend, a React application, is a dashboard that represents the areas of Italy (Regions, Provinces, Cities, Areas of Cities) by the ratio Rent price/Sell price. In this way, where the ratio is higher is, in theory, more convenient to buy for investment. 
+
+The Backend, a FastAPI application, scrapes data of specific area from [Immobiliare.it](https://www.immobiliare.it/mercato-immobiliare/) and transforms it.
 
 The purpose is just to provide an overview and some advisors.
 
